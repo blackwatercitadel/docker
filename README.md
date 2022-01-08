@@ -1,5 +1,3 @@
-# docker
-
 This script will install Docker, Docker Compose and Portainer in just a few seconds.
 
 # Usage
