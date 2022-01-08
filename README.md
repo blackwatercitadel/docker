@@ -5,8 +5,8 @@ This script will install Docker, Docker Compose and Portainer in just a few seco
 # Usage
 First, clone the repo and make it executable:
 
-chmod +x dockerServerInstall.sh
+<li>chmod +x dockerServerInstall.sh</li>
 
 Then run it:
 
-./dockerServerInstall.sh
+<li>./dockerServerInstall.sh</li>
