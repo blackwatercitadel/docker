@@ -9,7 +9,7 @@ This script will install Docker, Docker Compose and Portainer in just a few seco
 </li>
 <li>Then run it:
 <ul>
-<li>./dockerServerInstall.sh</li>
+<li>sudo ./dockerServerInstall.sh</li>
 </ul>
 </ul>
 </li>
