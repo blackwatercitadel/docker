@@ -79,4 +79,4 @@ _______________________________________________________________________
 Portainer: http://$IP_ADDR:8000 - Docker Management User Interface
 
 "
-pause 'Press [Enter] to continue...'
+read -p 'Press [Enter] to continue'
