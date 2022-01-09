@@ -13,6 +13,8 @@ Clone this repo and make the scripts executable:
 *Optional:*
 `sudo chmod +x update.sh` _<-this should be run on an initial server build before installing Docker and Portainer. It is RECOMMENDED to setup `unattended-upgrades`, with the option to "blacklist" the Docker and Portainer packages to prevent distruption to a PRODUCTION environment._
 
+[How to enable automatic updates on Ubuntu 20.04 using unattended-upgrades](https://linoxide.com/enable-automatic-updates-on-ubuntu-20-04/)
+
 To make all the scripts from this repo executable do the following or see above for the individual commands.<br>
 
 `cd /docker`<br>
