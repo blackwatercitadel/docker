@@ -13,6 +13,8 @@ _update() {
     
     "
     read -p 'Press [Enter] to continue'
+    sleep 3
+    shutdown --reboot 5 "[!] The system is going to reboot [!]"
 }
 
 _update
